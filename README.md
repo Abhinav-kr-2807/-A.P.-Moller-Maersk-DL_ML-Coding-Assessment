@@ -1,4 +1,4 @@
-# -A.P.-Moller-Maersk-DL_ML-Coding-Assessment
+# A.P.-Moller-Maersk-DL_ML-Coding-Assessment
 # Maersk Supply Chain Sourcing Cost Prediction
 
 This project aims to predict sourcing costs in a supply chain using machine learning models. The dataset used is from Maersk Supply Chain and includes both training and testing datasets.
